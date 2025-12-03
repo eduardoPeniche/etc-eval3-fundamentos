@@ -237,7 +237,7 @@ En el dashboard verás:
 
 ![Dashboard de Calidad del Aire 1](images/streamlit_1.png)
 
-![Dashboard de Calidad del Aire 2](images/streamlit_1.png)
+![Dashboard de Calidad del Aire 2](images/streamlit_2.png)
 
 
 ## 10. Actualizar los datos
