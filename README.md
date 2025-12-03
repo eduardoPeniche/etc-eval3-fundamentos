@@ -233,6 +233,11 @@ En el dashboard verás:
   - Tabla detallada con todas las mediciones.
 - **Información educativa** sobre los niveles de calidad del aire.
 
+## Capturas de Pantalla
+
+![Dashboard de Calidad del Aire 1](images/streamlit_1.png)
+
+![Dashboard de Calidad del Aire 2](images/streamlit_1.png)
 
 
 ## 10. Actualizar los datos
